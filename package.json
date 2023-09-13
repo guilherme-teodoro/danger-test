@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "danger": "^11.2.8",
+    "danger-plugin-artifact-size": "^2.0.0"
   }
 }
