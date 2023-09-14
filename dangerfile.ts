@@ -1,6 +1,3 @@
-import artifactSize from 'danger-plugin-artifact-size'
+const artifactSize = require('danger-plugin-artifact-size')
 
 artifactSize();
-
-
-// 
