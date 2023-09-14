@@ -10,7 +10,7 @@ jobs:
     steps:
       - checkout
       - run:
-          command: yarn build
+          command: yarn
           name: Build app
       - run:
           command: yarn build
